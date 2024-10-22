@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+:root {
+    --PrimaryColor: #0a0a27;
+    --SecondaryColor: #231437;
+    --TetrinaryColor: #161a53;
+    --QuaternaryColor: yellow;
+    --QuinternaryColor: #210b3f;
+    background-color: var(--PrimaryColor);
+    --CodeColor: rgb(216, 0, 118);
+    --OuterBoxShadow: #2a2a72;
+    text-shadow: 3px 0px 0px rgba(0,0,0,1);
+    color:var(--StringColor);
+    --StringColor:rgb(0, 204, 255);
+  }
