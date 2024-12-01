@@ -1,11 +1,14 @@
 <script>
 	import Header from './Header.svelte';
 	import Footer from './Footer.svelte';
+	import Nav from "./Nav.svelte";
 	import '../app.css';
+	
 </script>
 <style src='../app.css'></style>
 <div class="app">
 	<Header />
+	<Nav/>
 
 	<main>
 		<slot />
