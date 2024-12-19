@@ -29,7 +29,7 @@
      <div id="Header Container" class="flex h-full w-full justify-between py-5 px-5 border-b-2 border-b-black ">
         <div class="w-1/4"></div>
         <div class="w-1/2 flex justify-center">
-            <h1 class="self-center">Necromancer Midas</h1>
+            <h1 class="self-center text-4xl">Necromancer Midas</h1>
         </div>
     <div id="RightHeaderToolBar" class="flex flex-col w-1/4 items-end">
         <div id="ColorSelection" class="flex flex-row">

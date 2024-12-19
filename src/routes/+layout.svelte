@@ -6,6 +6,8 @@
 	
 </script>
 <style src='../app.css'></style>
+
+
 <div class="app">
 	<Header />
 	<Nav/>

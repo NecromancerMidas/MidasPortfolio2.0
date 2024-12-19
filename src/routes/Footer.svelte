@@ -5,9 +5,9 @@
 
 </script>
 
-<footer class="flex fixed left-0 bottom-0 w-full bg-secondary h-24">
+<footer class="flex fixed left-0 bottom-0 w-full bg-secondary h-24 justify-evenly">
 
-<h1>Oooga Booga</h1>
+<h1 class="self-center">Excellent Footer</h1>
 
 
 </footer>

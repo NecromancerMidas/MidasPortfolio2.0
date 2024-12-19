@@ -7,6 +7,6 @@
 
 
 
-<nav class="h-5 w-full bg-tetrinary">
+<nav class="h-12 w-full bg-tetrinary">
 
 </nav>
