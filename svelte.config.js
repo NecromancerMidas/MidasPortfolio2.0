@@ -18,7 +18,7 @@ const config = {
 		paths: {
 			// Base path, update this if deploying to a subdirectory
 			base: '',
-		}
+		},
 	}
 };
 
