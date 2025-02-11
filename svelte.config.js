@@ -13,7 +13,7 @@ const config = {
 			pages: 'build',
 			assets: 'build',
 			// For single-page apps, use 'index.html' as the fallback
-			fallback: null, // Change to 'index.html' if needed
+			fallback: "index.html", // Change to 'index.html' if needed
 		}),
 		paths: {
 			// Base path, update this if deploying to a subdirectory
