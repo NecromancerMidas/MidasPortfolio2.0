@@ -3,6 +3,7 @@
 	import Footer from './Footer.svelte';
 	import Nav from "./Nav.svelte";
 	import '../app.css';
+	export const prerender = true;
 	
 </script>
 <style src='../app.css'></style>

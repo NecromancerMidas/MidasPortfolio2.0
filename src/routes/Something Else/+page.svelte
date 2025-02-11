@@ -5,4 +5,4 @@
     </script>
     
     
-    <Default name="About Me"/>
+    <Default name="Something Else"/>

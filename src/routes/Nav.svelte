@@ -10,7 +10,7 @@ import { goto } from "$app/navigation";
 
 <nav class="flex flex-row justify-evenly h-16 w-full bg-tetrinary">
     <NavButton navTo = "/"/>
-    <NavButton navTo = "AboutMe"/>
     <NavButton navTo = "Write-ups"/>
+    <NavButton navTo = "Blog"/>
     <NavButton navTo = "Something Else"/>
 </nav>
